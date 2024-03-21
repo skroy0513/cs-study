@@ -4,7 +4,8 @@
 운으로 좋은 개발자가 되거나, 어쩌다보니 훌륭한 개발자가 되는 일이 없도록 하겠습니다.</br>
 여러분이 학교(혹은 그 외)에서 배우신 많은 지식들을 </br>
 저는 절대 포기하지 않고 끝까지 습득해서 부끄럽지 않은 개발자가 되겠습니다.
-## Study
+## :pencil2: Study
+블로그에 매일매일 기록하며 공부합니다. :link:[My Blog](https://skroy0513.tistory.com)
 - [Java & Spring](https://github.com/skroy0513/cs-study/blob/main/Java%26Spring.md)
 - [DataBase](https://github.com/skroy0513/cs-study/blob/main/Database.md)
 - [Network](https://github.com/skroy0513/cs-study/blob/main/Network.md)
