@@ -6,5 +6,5 @@
 저는 절대 포기하지 않고 끝까지 습득해서 부끄럽지 않은 개발자가 되겠습니다.
 ## Study
 - [Java & Spring](https://github.com/skroy0513/cs-study/blob/main/Java%26Spring.md)
-- [DataBase](https://github.com/skroy0513/cs-study/blob/main/DataBase.md)
+- [DataBase](https://github.com/skroy0513/cs-study/blob/main/Database.md)
 - [Network](https://github.com/skroy0513/cs-study/blob/main/Network.md)
