@@ -11,3 +11,4 @@
 - [DataBase](https://github.com/skroy0513/cs-study/blob/main/Database.md)
 - [Network](https://github.com/skroy0513/cs-study/blob/main/Network.md)
 - [DevOps](https://github.com/skroy0513/cs-study/blob/main/DevOps.md)
+- [ETC](https://github.com/skroy0513/cs-study/blob/main/ETC.md)
