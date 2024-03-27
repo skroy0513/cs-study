@@ -1,9 +1,12 @@
-## DB
+# DB
+## Index
 1. [RDBMS와 NoSQL](#1-rdbms와-nosql)
 2. [정규화](#2-정규화)
 3. [쿼리 최적화 및 DB 로직 최소화](#3-쿼리-최적화-및-db로직-최소화)
 4. [DDL, DML, DCL](#4-ddl-dml-dcl)
 5. [Primary Key, Foreign Key](#5-primary-key-foreign-key)
+
+-- -- --
 
 ### 1. [RDBMS와 NoSQL](https://skroy0513.tistory.com/37)
 ❓ <b><i>RDBMS와 NoSQL의 특징과 차이점에 대해서 장, 단점을 들어 설명해 주세요.</i></b>
