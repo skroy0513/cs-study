@@ -12,6 +12,7 @@
 11. [IoC와 DI](https://skroy0513.tistory.com/29)
 12. [N+1과 해결방법](https://skroy0513.tistory.com/33)
 13. [즉시로딩&지연로딩](https://skroy0513.tistory.com/34)
+14. [Generic](https://skroy0513.tistory.com/51)
 
 ## Spring
 1. [MVC 모델](https://skroy0513.tistory.com/30)
