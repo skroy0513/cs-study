@@ -4,3 +4,4 @@
 3. [쿠키와 세션](https://skroy0513.tistory.com/42)
 4. [TCP/UDP](https://skroy0513.tistory.com/41)
 5. [HTTP Method](https://skroy0513.tistory.com/50)
+6. [HTTP 상태코드](https://skroy0513.tistory.com/55)
