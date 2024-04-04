@@ -5,6 +5,7 @@
 3. [쿼리 최적화 및 DB 로직 최소화](#3-쿼리-최적화-및-db로직-최소화)
 4. [DDL, DML, DCL](#4-ddl-dml-dcl)
 5. [Primary Key, Foreign Key](#5-primary-key-foreign-key)
+6. [Redis](#6-redis)
 
 -- -- --
 
@@ -55,3 +56,5 @@
     &nbsp;&nbsp;외래 키는 Foreign Key로 한 테이블에서 다른 테이블의 기본키를 참조하는 키입니다. 외래키를 통해 테이블 간의 관계를 형성할 수 있고, 두 개 이상의 테이블에서 데이터를 검색하고 JOIN 할 수 있습니다. 또한 외래키로 인해 데이터의 무결성이 유지되는 데에 중요한 역할을 하며, 일관성 또한 유지됩니다.<br>
   </div>
 </details>
+
+### 6. [Redis](https://skroy0513.tistory.com/58)
