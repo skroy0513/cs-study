@@ -16,6 +16,7 @@
 15. [HashTable, HashMap, HashSet](https://skroy0513.tistory.com/52)
 16. [추상클래스와 인터페이스](https://skroy0513.tistory.com/53)
 17. [Java의 버전별 차이](https://skroy0513.tistory.com/57)
+18. [Java 직렬화](https://skrot0513.tistory.com/60)
 
 ## Spring
 1. [MVC 모델](https://skroy0513.tistory.com/30)
