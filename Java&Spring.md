@@ -10,7 +10,7 @@
 7. [Garbage Collector](#7-garbage-collector)
 8. [Java Map의 내부구현](#8-java-map의-내부구현)
 9. [IoC와 DI](#9-ioc와-di)
-10. [N+1과 해결방법](#10-N+1과-해결방법)
+10. [N+1과 해결방법](#10-n1과-해결방법)
 11. [즉시로딩&지연로딩](#11-즉시로딩지연로딩)
 12. [Generic](#12-generic)
 13. [HashTable, HashMap, HashSet](#13-hashtable-hashmap-hashset)
