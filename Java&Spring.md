@@ -43,7 +43,9 @@
 ### 13. [HashTable, HashMap, HashSet](https://skroy0513.tistory.com/52)
 ### 14. [추상클래스와 인터페이스](https://skroy0513.tistory.com/53)
 ### 15. [Java의 버전별 차이](https://skroy0513.tistory.com/57)
-### 16. [Java 직렬화](https://skrot0513.tistory.com/60)
+### 16. [Java 직렬화](https://skroy0513.tistory.com/60)
+### 17. [Thread Pool](https://skroy0513.tistory.com/61)
+
 
 ## Spring
 ### 1. [JPA](https://skroy0513.tistory.com/20)
