@@ -47,6 +47,14 @@
 ### 15. [Java의 버전별 차이](https://skroy0513.tistory.com/57)
 ### 16. [Java 직렬화](https://skroy0513.tistory.com/60)
 ### 17. [Thread Pool](https://skroy0513.tistory.com/61)
+<details>
+  <summary>❓ <b><i> Thread Pool에 대해 간략히 설명해주세요</i></b></summary>
+  <div markdown="1">
+    &nbsp;&nbsp;작업의 단위인 스레드는 한 번 생성할 때마다 OS가 해당 스레드를 위한 메모리를 확보하고, 필요 없을 땐 이 메모리영역을 회수하는 작업이 일어납니다. 이러한 작업은 큰 비용이 발생하기 때문에 반복적으로 일어나게 된다면 성능상의 영향을 끼칠 수 밖에 없습니다. 이러한 일을 방지하기 위해 Thread Pool에 미리 스레드를 많이 생성해 놓아서 작업이 요청되면 그때마다 Thread Pool에 있는 적절한 스레드에게 작업을 할당합니다.
+    &nbsp;&nbsp;이 방식을 사용함으로서 프로그램의 성능 저하를 방지할 수 있으며, 다수의 요청을 효율적으로 처리할 수 있다는 장점이 있습니다. 하지만 Thread Pool을 생성할 때 적절한 양의 스레드를 만들어야 한다는 단점이 있습니다. 너무 많은 스레드를 만들면 일을 하지 않는 스레드가 메모리를 차지하는 일이 일어나며, 너무 적은 스레드를 만들게 되면 리소스 경합이 발생하여 성능에 문제가 생길 수도 있습니다.
+  </div>
+</details>
+
 ### 18. [Concurrent Collection](https://skroy0513.tistory.com/62)
 <details>
   <summary>❓ <b><i> Concurrent Collection에 대해 간략히 설명해주세요</i></b></summary>
