@@ -48,6 +48,13 @@
 ### 16. [Java 직렬화](https://skroy0513.tistory.com/60)
 ### 17. [Thread Pool](https://skroy0513.tistory.com/61)
 ### 18. [Concurrent Collection](https://skroy0513.tistory.com/62)
+<details>
+  <summary>❓ <b><i> Concurrent Collection에 대해 간략히 설명해주세요</i></b></summary>
+  <div markdown="1">
+    &nbsp;&nbsp;Concurrent Collection은 직역하면 병렬 컬렉션으로, 스레드가 병렬적으로 작업을 할 수 있도록 접근이 가능한 Collection을 말합니다. 여러 스레드가 한 번에 접근이 가능하기 때문에 각 스레드의 대기 시간을 줄여주며, 한 번에 하나의 스레드가 접근 가능한 Synchronized 컬렉션보다 성능이 좋습니다. 또한, 하나 이상의 스레드가 병렬적으로 read, write 연산을 할 수 있습니다. <br>
+    &nbsp;&nbsp;대표적인 예로는 CopyOnWriteArrayList와 ConcurrentHashMap이 있습니다. ArrayList는 모든 쓰기 작업 시 원본 배열의 요소를 복사하여 새로운 임시 배열을 만들고 이 임시 배열에 쓰기 작업을 한 뒤 원본 배열을 갱신합니다. 동시성을 보장하기 위하여 쓰기 작업인, add() 메소드에 Lock을 겁니다. HashMap은 내부에 16개의 버킷을 가지고 있으며, 각 버킷 마다 자체적으로 Lock을 가지고 있으므로 총 16개의 Lock을 가지고 있습니다. 따라서 16개의 스레드가 동시에 접근이 가능한 HashMap입니다.
+  </div>
+</details>
 
 ## Spring
 ### 1. [JPA](https://skroy0513.tistory.com/20)
