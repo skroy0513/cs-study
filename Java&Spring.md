@@ -19,6 +19,7 @@
 16. [Java 직렬화](#16-java-직렬화)
 17. [Thread Pool](#17-thread-pool)
 18. [Concurrent Collection](#18-concurrent-collection)
+19. [String, StringBuffer, StringBuilder](#19-string-stringbuffer-stringbuilder)
 
 ### Spring
 1. [JPA](#1-jpa)
@@ -72,6 +73,8 @@
     &nbsp;&nbsp;대표적인 예로는 CopyOnWriteArrayList와 ConcurrentHashMap이 있습니다. ArrayList는 모든 쓰기 작업 시 원본 배열의 요소를 복사하여 새로운 임시 배열을 만들고 이 임시 배열에 쓰기 작업을 한 뒤 원본 배열을 갱신합니다. 동시성을 보장하기 위하여 쓰기 작업인, add() 메소드에 Lock을 겁니다. HashMap은 내부에 16개의 버킷을 가지고 있으며, 각 버킷 마다 자체적으로 Lock을 가지고 있으므로 총 16개의 Lock을 가지고 있습니다. 따라서 16개의 스레드가 동시에 접근이 가능한 HashMap입니다.
   </div>
 </details>
+
+### 19. [String, StringBuffer, StringBuilder](https://skroy0513.tistory.com/63)
 
 ## Spring
 ### 1. [JPA](https://skroy0513.tistory.com/20)
