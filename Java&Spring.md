@@ -36,12 +36,20 @@
 <details>
   <summary>❓ <b><i> Call by Reference에 대해 설명해주세요</i></b></summary>
   <div markdown="1">
-    &nbsp;&nbsp;Call by Reference는 참조에 의한 호출로, 메소드에 변수를 전달할 때 변수의 참조값인 메모리 주소 값이 전달되며, 메소드 내에서 변수를 수정하면 호출자의 변수도 수정됩니다. Call by Reference는 복사하지 않고 직접 참조를 하기 때문에 상당히 빠른 장점이 있지만, 직접 참조를 하기 때문에 원래의 값이 영향을 받는 리스크가 존재한다. <br>
+    &nbsp;&nbsp;Call by Reference는 참조에 의한 호출로, 메소드에 변수를 전달할 때 변수의 참조값인 메모리 주소 값이 전달되며, 메소드 내에서 변수를 수정하면 호출자의 변수도 수정됩니다. Call by Reference는 복사하지 않고 직접 참조를 하기 때문에 상당히 빠른 장점이 있지만, 직접 참조를 하기 때문에 원래의 값이 영향을 받는 리스크가 존재합니다. <br>
     &nbsp;&nbsp;자바는 객체 지향 프로그래밍이기 때문에 Call by Value를 지향하며 그 방식으로 동작합니다. Call by Value는 값에 의한 호출로, 함수가 인수로 전달받은 값을 복사하여 처리 하기 때문에 원본 값은 변경되지 않는 특징이 있습니다. 하지만 Java의 참조타입인 경우 Heap영역에 객체가 들어있고 Stack에는 해당 객체의 주소값을 바라보는데 그 주소값을 복사하여 동작하기 때문에 Call by Reference처럼 동작한다고 느낄 수 있습니다.
   </div>
 </details>
 
 ### 2. [Override & Overload](https://skroy0513.tistory.com/19)
+<details>
+  <summary>❓ <b><i> Override와 Overload의 차이에 대해 설명해주세요</i></b></summary>
+  <div markdown="1">
+    &nbsp;&nbsp;Override는 부모 클래스로부터 상속받은 메소드를 자식 클래스에서 재정의하는 것을 말합니다. 재정의를 하는 것이기 때문에 리턴 타입, 매개변수의 개수, 메소드명이 동일해야 합니다.
+    &nbsp;&nbsp;Overload는 두 메소드가 같은 이름을 가지나 매개변수의 수나 타입이 다른 것을 말합니다. 대표적으로 System.out.println()이 있으며, 같은 기능을 하는 메소드를 하나의 이름으로 사용할 수 있습니다. 또한 같은 이름을 쓰기 때문에 타입별로 이름을 별도로 재정의 하지 않아도 되기 때문에 사용함에 있어 편리함이 있습니다.
+  </div>
+</details>
+
 ### 3. [JVM](https://skroy0513.tistory.com/22)
 ### 4. [Java의 컴파일과정](https://skroy0513.tistory.com/23)
 ### 5. [JVM의 스택과 힙 메모리 영역](https://skroy0513.tistory.com/25)
