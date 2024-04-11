@@ -20,6 +20,7 @@
 17. [Thread Pool](#17-thread-pool)
 18. [Concurrent Collection](#18-concurrent-collection)
 19. [String, StringBuffer, StringBuilder](#19-string-stringbuffer-stringbuilder)
+20. [Java의 접근제어자](#20-java의-접근제어자)
 
 ### Spring
 1. [JPA](#1-jpa)
@@ -92,6 +93,7 @@
 </details>
 
 ### 19. [String, StringBuffer, StringBuilder](https://skroy0513.tistory.com/63)
+### 20. [Java의 접근제어자](https://skroy0513.tistory.com/64)
 
 ## Spring
 ### 1. [JPA](https://skroy0513.tistory.com/20)
