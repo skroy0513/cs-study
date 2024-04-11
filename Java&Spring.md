@@ -94,6 +94,13 @@
 
 ### 19. [String, StringBuffer, StringBuilder](https://skroy0513.tistory.com/63)
 ### 20. [Java의 접근제어자](https://skroy0513.tistory.com/64)
+<details>
+  <summary>❓ <b><i> Java의 접근제어자에 대해 설명해주세요</i></b></summary>
+  <div markdown="1">
+    &nbsp;&nbsp;Java의 접근제어자를 통해서 클래스나 클래스의 멤버가 접근할 수 있는 범위를 지정해줍니다. 접근제어자에는 public, protected, default, private 총 4가지가 있으며 클래스는 4가지중 public과 default만 사용 가능합니다.
+    &nbsp;&nbsp;public은 패키지와 상관없이 모든 클래스에서 다 사용이 가능하며, protected는 같은 패키지내의 클래스와 다른 패키지의 자손 클래스에서만 사용이 가능합니다. default는 생략이 가능하며 같은 패키지 내의 클래스에서만 사용이 가능합니다. private는 같은 클래스 안에서만 사용이 가능하고, private 접근 제어자를 통해 데이터를 외부로부터 보호할 수 있습니다.
+  </div>
+</details>
 
 ## Spring
 ### 1. [JPA](https://skroy0513.tistory.com/20)
