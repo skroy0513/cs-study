@@ -62,6 +62,15 @@
 ### 12. [Generic](https://skroy0513.tistory.com/51)
 ### 13. [HashTable, HashMap, HashSet](https://skroy0513.tistory.com/52)
 ### 14. [추상클래스와 인터페이스](https://skroy0513.tistory.com/53)
+<details>
+  <summary>❓ <b><i> 추상클래스와 인터페이스의 차이에 대해 설명해주세요</i></b></summary>
+  <div markdown="1">
+    &nbsp;&nbsp;둘 다 상속받은 클래스 혹은 구현하는 인터페이스 안에 있는 추상 메서드를 구현하도록 강제하는 설계도라고 볼 수 있습니다. 다만 추상 클래스는 아직 구현해야 될 것이 남아있는 미완성 설계도이고, 인터페이스는 구현된 것이 없고 밑그림만 그려진 기본 설계도의 차이가 있습니다.
+    &nbsp;&nbsp;추상 클래스는 extends 키워드를 사용하고 상속받은 클래스가 기능을 확장시킬 수 있도록 하는 것이 목적입니다. 일반 메서드를 정의할 수 있고 일반 클래스와 동일하게 멤버 변수를 선언하고 사용이 가능합니다. 하지만 다중 상속은 불가능합니다.
+    &nbsp;&nbsp;인터페이스는 implements 키워드를 사용하고 구현하는 클래스들의 동일한 실행 기능을 보장하기 위한 것이 목적입니다. 일반 메서드는 static, default 메서드만 정의 가능하고, 멤버 변수는 상수만 사용이 가능합니다. 하지만 인터페이스는 하나의 클래스가 여러 개의 인터페이스를 구현할 수 있다는 특징이 있습니다.
+  </div>
+</details>
+
 ### 15. [Java의 버전별 차이](https://skroy0513.tistory.com/57)
 ### 16. [Java 직렬화](https://skroy0513.tistory.com/60)
 ### 17. [Thread Pool](https://skroy0513.tistory.com/61)
