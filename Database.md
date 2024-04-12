@@ -62,7 +62,7 @@
 
 ### 7. [DELETE, TRUNCATE, DROP](https://skroy0513.tistory.com/65)
 <details>
-  <summary>❓ <b><i>삭제하는 명령어에 대해 설명해 주세요.</i></b></summary>
+  <summary>❓ <b><i>삭제하는 명령어에 대해 설명해 주세요.</i></b></summary>
   <div markdown="1">
     &nbsp;&nbsp;데이터베이스에서 삭제하는 쿼리를 작성할 때 DELETE, TRUNCATE, DROP의 명령어를 사용하여 삭제를 할 수 있습니다. 이 세 가지 명령어는 각자 삭제하는 범위와 특징이 다릅니다. <br>
     &nbsp;&nbsp;먼저 DELETE는 DML에 해당하는 명령어로서, WHERE절을 사용하여 테이블에 저장된 행 하나하나를 삭제하는 명령어 입니다. DELETE로 삭제를 하게 되면 자동으로 commit이 되지 않기 때문에 실수로 데이터를 삭제한 경우 rollback을 통해 되돌릴 수 있습니다. 이 방식으로 삭제하는 것은 데이터가 담겨있던 저장공간을 반납하지 않게 됩니다. <br>
