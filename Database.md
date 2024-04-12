@@ -6,6 +6,7 @@
 4. [DDL, DML, DCL](#4-ddl-dml-dcl)
 5. [Primary Key, Foreign Key](#5-primary-key-foreign-key)
 6. [Redis](#6-redis)
+7. [DELETE, TRUNCATE, DROP](#7-delete-truncate-drop)
 
 -- -- --
 
@@ -58,3 +59,5 @@
 </details>
 
 ### 6. [Redis](https://skroy0513.tistory.com/58)
+
+### 7. [DELETE, TRUNCATE, DROP](https://skroy0513.tistory.com/65)
