@@ -73,3 +73,11 @@
 </details>
 
 ### 8. [WHERE, HAVING](https://skroy0513.tistory.com/66)
+<details>
+  <summary>❓ <b><i>WHERE과 HAVING의 차이에 대해서 설명해 주세요.</i></b></summary>
+  <div markdown="1">
+    &nbsp;&nbsp;where과 having은 데이터를 select 할 때 조건을 걸어 필터링 하는 역할을 합니다. <br>
+    &nbsp;&nbsp;먼저 where절은 from 절 바로 뒤에 오며 개별 행을 필터링합니다. 또한 기본적인 조건절로서 우선적으로 모든 필드에 조건을 둘 수 있습니다.<br>
+    &nbsp;&nbsp;having절은 group by 로 같은 값을 가진 행을 그룹 짓고 난 뒤에 그 그룹을 필터링합니다. 그렇기 때문에 group by 없이는 단독으로 사용될 수 없습니다.
+  </div>
+</details>
