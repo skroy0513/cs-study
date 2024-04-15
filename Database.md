@@ -7,6 +7,7 @@
 5. [Primary Key, Foreign Key](#5-primary-key-foreign-key)
 6. [Redis](#6-redis)
 7. [DELETE, TRUNCATE, DROP](#7-delete-truncate-drop)
+8. [WHERE, HAVING](#8-where-having)
 
 -- -- --
 
@@ -70,3 +71,5 @@
     &nbsp;&nbsp;마지막으로 DROP은 마찬가지로 DDL에 해당하는 명령어로, 테이블의 존재 자체를 삭제하고 해당 테이블에 생성되 있었던 인덱스도 사라지게 되는 명령어입니다. TRUNCATE와 동일하게 자동 commit이어서 되돌릴 수 없습니다. 테이블이 가지고 있던 모든 저장공간을 다시 반납하는 특징이 있습니다.
   </div>
 </details>
+
+### 8. [WHERE, HAVING](https://skroy0513.tistory.com/66)
