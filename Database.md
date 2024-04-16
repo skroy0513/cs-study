@@ -82,3 +82,5 @@
     &nbsp;&nbsp;having절은 group by 로 같은 값을 가진 행을 그룹 짓고 난 뒤에 그 그룹을 필터링합니다. 그렇기 때문에 group by 없이는 단독으로 사용될 수 없습니다.
   </div>
 </details>
+
+### 9. [Oracle과 MySQL](https://skroy0513.tistory.com/67)
