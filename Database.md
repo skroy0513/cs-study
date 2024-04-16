@@ -8,6 +8,7 @@
 6. [Redis](#6-redis)
 7. [DELETE, TRUNCATE, DROP](#7-delete-truncate-drop)
 8. [WHERE, HAVING](#8-where-having)
+9. [Oracle과 MySQL](#9-oracle과-mysql)
 
 -- -- --
 
