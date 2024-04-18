@@ -112,3 +112,9 @@
 ### 8. [Spring Container, Bean](https://skroy0513.tistory.com/35)
 ### 9. [Filter, Interceptor, AOP](https://skroy0513.tistory.com/36)
 ### 10. [MyBatis](https://skroy0513.tistory.com/70)
+<details>
+  <summary>❓ <b><i> MyBatis 대해 설명해주세요</i></b></summary>
+  <div markdown="1">
+    &nbsp;&nbsp;MyBatis는 SQL Mapper 프레임워크로 프로그램 코드와 쿼리를 분리하여 유지보수와 생산성을 높여줍니다. MyBatis의 장점으로는 크게 4가지가 있습니다. SQL 쿼리를 직접 작성할 수 있기 때문에 유연성의 장점을 가지고, 쿼리과 코드가 분리되어 있어서 코드가 간결하다는 장점이 있습니다. 또한 MyBatis는 캐시 기능을 제공하기 때문에 연산 속도를 높일 수 있는 성능 개선의 장점이 있고, Oracle, MySQL 뿐 아니라 여러 DB도 지원하는 확장성의 장점도 있습니다.
+  </div>
+</details>
