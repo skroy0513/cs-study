@@ -10,17 +10,15 @@
 7. [Garbage Collector](#7-garbage-collector)
 8. [Java Map의 내부구현](#8-java-map의-내부구현)
 9. [IoC와 DI](#9-ioc와-di)
-10. [N+1과 해결방법](#10-n1과-해결방법)
-11. [즉시로딩&지연로딩](#11-즉시로딩지연로딩)
-12. [Generic](#12-generic)
-13. [HashTable, HashMap, HashSet](#13-hashtable-hashmap-hashset)
-14. [추상클래스와 인터페이스](#14-추상클래스와-인터페이스)
-15. [Java의 버전별 차이](#15-java의-버전별-차이)
-16. [Java 직렬화](#16-java-직렬화)
-17. [Thread Pool](#17-thread-pool)
-18. [Concurrent Collection](#18-concurrent-collection)
-19. [String, StringBuffer, StringBuilder](#19-string-stringbuffer-stringbuilder)
-20. [Java의 접근제어자](#20-java의-접근제어자)
+10. [Generic](#12-generic)
+11. [HashTable, HashMap, HashSet](#13-hashtable-hashmap-hashset)
+12. [추상클래스와 인터페이스](#14-추상클래스와-인터페이스)
+13. [Java의 버전별 차이](#15-java의-버전별-차이)
+14. [Java 직렬화](#16-java-직렬화)
+15. [Thread Pool](#17-thread-pool)
+16. [Concurrent Collection](#18-concurrent-collection)
+17. [String, StringBuffer, StringBuilder](#19-string-stringbuffer-stringbuilder)
+18. [Java의 접근제어자](#20-java의-접근제어자)
 
 ### Spring
 1. [JPA](#1-jpa)
@@ -28,8 +26,10 @@
 3. [MVC 모델](#3-mvc-모델)
 4. [Annotation](#4-annotation)
 5. [Spring Security의 구조](#5-spring-security의-구조featjwt)
-6. [Spring Container, Bean](#6-spring-container-bean)
-7. [Filter, Interceptor, AOP](#7-filter-interceptor-aop)
+6. [N+1과 해결방법](#6-n1과-해결방법)
+7. [즉시로딩&지연로딩](#7-즉시로딩지연로딩)
+8. [Spring Container, Bean](#8-spring-container-bean)
+9. [Filter, Interceptor, AOP](#9-filter-interceptor-aop)
 
 -- -- --
 ## JAVA
@@ -58,11 +58,9 @@
 ### 7. [Garbage Collector](https://skroy0513.tistory.com/27)
 ### 8. [Java Map의 내부구현](https://skroy0513.tistory.com/28)
 ### 9. [IoC와 DI](https://skroy0513.tistory.com/29)
-### 10. [N+1과 해결방법](https://skroy0513.tistory.com/33)
-### 11. [즉시로딩&지연로딩](https://skroy0513.tistory.com/34)
-### 12. [Generic](https://skroy0513.tistory.com/51)
-### 13. [HashTable, HashMap, HashSet](https://skroy0513.tistory.com/52)
-### 14. [추상클래스와 인터페이스](https://skroy0513.tistory.com/53)
+### 10. [Generic](https://skroy0513.tistory.com/51)
+### 11. [HashTable, HashMap, HashSet](https://skroy0513.tistory.com/52)
+### 12. [추상클래스와 인터페이스](https://skroy0513.tistory.com/53)
 <details>
   <summary>❓ <b><i> 추상클래스와 인터페이스의 차이에 대해 설명해주세요</i></b></summary>
   <div markdown="1">
@@ -72,9 +70,9 @@
   </div>
 </details>
 
-### 15. [Java의 버전별 차이](https://skroy0513.tistory.com/57)
-### 16. [Java 직렬화](https://skroy0513.tistory.com/60)
-### 17. [Thread Pool](https://skroy0513.tistory.com/61)
+### 13. [Java의 버전별 차이](https://skroy0513.tistory.com/57)
+### 14. [Java 직렬화](https://skroy0513.tistory.com/60)
+### 15. [Thread Pool](https://skroy0513.tistory.com/61)
 <details>
   <summary>❓ <b><i> Thread Pool에 대해 설명해주세요</i></b></summary>
   <div markdown="1">
@@ -83,7 +81,7 @@
   </div>
 </details>
 
-### 18. [Concurrent Collection](https://skroy0513.tistory.com/62)
+### 16. [Concurrent Collection](https://skroy0513.tistory.com/62)
 <details>
   <summary>❓ <b><i> Concurrent Collection에 대해 설명해주세요</i></b></summary>
   <div markdown="1">
@@ -92,8 +90,8 @@
   </div>
 </details>
 
-### 19. [String, StringBuffer, StringBuilder](https://skroy0513.tistory.com/63)
-### 20. [Java의 접근제어자](https://skroy0513.tistory.com/64)
+### 17. [String, StringBuffer, StringBuilder](https://skroy0513.tistory.com/63)
+### 18. [Java의 접근제어자](https://skroy0513.tistory.com/64)
 <details>
   <summary>❓ <b><i> Java의 접근제어자에 대해 설명해주세요</i></b></summary>
   <div markdown="1">
@@ -108,5 +106,7 @@
 ### 3. [MVC 모델](https://skroy0513.tistory.com/30)
 ### 4. [Annotation](https://skroy0513.tistory.com/31)
 ### 5. [Spring Security의 구조(feat.JWT)](https://skroy0513.tistory.com/32)
-### 6. [Spring Container, Bean](https://skroy0513.tistory.com/35)
-### 7. [Filter, Interceptor, AOP](https://skroy0513.tistory.com/36)
+### 6. [N+1과 해결방법](https://skroy0513.tistory.com/33)
+### 7. [즉시로딩&지연로딩](https://skroy0513.tistory.com/34)
+### 8. [Spring Container, Bean](https://skroy0513.tistory.com/35)
+### 9. [Filter, Interceptor, AOP](https://skroy0513.tistory.com/36)
