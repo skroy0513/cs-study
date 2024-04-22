@@ -19,6 +19,7 @@
 16. [Concurrent Collection](#16-concurrent-collection)
 17. [String, StringBuffer, StringBuilder](#17-string-stringbuffer-stringbuilder)
 18. [Java의 접근제어자](#18-java의-접근제어자)
+19. [Java의 동일성, 동등성](#19-java의-동일성-동등성)
 
 ### Spring
 1. [JPA](#1-jpa)
@@ -100,6 +101,8 @@
     &nbsp;&nbsp;public은 패키지와 상관없이 모든 클래스에서 다 사용이 가능하며, protected는 같은 패키지내의 클래스와 다른 패키지의 자손 클래스에서만 사용이 가능합니다. default는 생략이 가능하며 같은 패키지 내의 클래스에서만 사용이 가능합니다. private는 같은 클래스 안에서만 사용이 가능하고, private 접근 제어자를 통해 데이터를 외부로부터 보호할 수 있습니다.
   </div>
 </details>
+
+### 19. [Java의 동일성, 동등성](https://skroy0513.tistory.com/72)
 
 ## Spring
 ### 1. [JPA](https://skroy0513.tistory.com/20)
