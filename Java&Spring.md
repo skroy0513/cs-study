@@ -32,6 +32,7 @@
 8. [Spring Container, Bean](#8-spring-container-bean)
 9. [Filter, Interceptor, AOP](#9-filter-interceptor-aop)
 10. [MyBatis](#10-mybatis)
+11. [JSP](#11-jsp)
 
 -- -- --
 ## JAVA
@@ -115,6 +116,7 @@
 ### 8. [Spring Container, Bean](https://skroy0513.tistory.com/35)
 ### 9. [Filter, Interceptor, AOP](https://skroy0513.tistory.com/36)
 ### 10. [MyBatis](https://skroy0513.tistory.com/70)
+### 11. [JSP](https://skroy0513.tistory.com/73)
 <details>
   <summary>❓ <b><i> MyBatis 대해 설명해주세요</i></b></summary>
   <div markdown="1">
