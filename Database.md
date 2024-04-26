@@ -90,3 +90,10 @@
 ### 10. [Index란](https://skroy0513.tistory.com/68)
 
 ### 11. [JOIN](https://skroy0513.tistory.com/75)
+<details>
+  <summary>❓ <b><i>JOIN에 대해서 설명해 주세요.</i></b></summary>
+  <div markdown="1">
+    &nbsp;&nbsp;관계형 데이터베이스에서 JOIN은 여러 테이블에서 원하는 데이터를 가져오기 위해 사용하는 구문입니다. JOIN의 종류에는 INNER JOIN, OUTER JOIN, SELF JOIN 등이 있습니다.<br>
+    &nbsp;&nbsp; INNER JOIN은 일반 JOIN구문을 사용할 때 적용되는 것이고, 두 테이블의 교집합 데이터만 불러옵니다. OUTER JOIN에는 LEFT, RIGHT, FULL이 있는데 LEFT는 선행 테이블의 모든 데이터와 후행테이블애서 알차허는 데이터 항목, RIGHT는 후행 테이블의 모든 데이터와 선행테이블에서 일치하는 데이터 항목, FULL은 선행, 후행 테이블에서 모든 데이터를 추출합니다. SELF JOIN은 자기 자신과 JOIN을 하는 문법입니다.
+  </div>
+</details>
