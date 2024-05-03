@@ -11,6 +11,7 @@
 9. [Oracle과 MySQL](#9-oracle과-mysql)
 10. [Index](#10-index란)
 11. [JOIN](#11-join)
+12. [Cache](#12-cache)
 
 -- -- --
 
@@ -97,3 +98,5 @@
     &nbsp;&nbsp; INNER JOIN은 일반 JOIN구문을 사용할 때 적용되는 것이고, 두 테이블의 교집합 데이터만 불러옵니다. OUTER JOIN에는 LEFT, RIGHT, FULL이 있는데 LEFT는 선행 테이블의 모든 데이터와 후행테이블애서 알차허는 데이터 항목, RIGHT는 후행 테이블의 모든 데이터와 선행테이블에서 일치하는 데이터 항목, FULL은 선행, 후행 테이블에서 모든 데이터를 추출합니다. SELF JOIN은 자기 자신과 JOIN을 하는 문법입니다.
   </div>
 </details>
+
+### 12. [Cache](https://skroy0513.tistory.com/77)
