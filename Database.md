@@ -12,6 +12,7 @@
 10. [Index](#10-index란)
 11. [JOIN](#11-join)
 12. [Cache](#12-cache)
+13. [복합키](#13-복합키)
 
 -- -- --
 
@@ -100,3 +101,5 @@
 </details>
 
 ### 12. [Cache](https://skroy0513.tistory.com/77)
+
+### 13. [복합키](https://skroy0513.tistory.com/78)
