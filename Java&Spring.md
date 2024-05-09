@@ -20,6 +20,7 @@
 17. [String, StringBuffer, StringBuilder](#17-string-stringbuffer-stringbuilder)
 18. [Java의 접근제어자](#18-java의-접근제어자)
 19. [Java의 동일성, 동등성](#19-java의-동일성-동등성)
+20. [Bean](#20-bean)
 
 ### Spring
 1. [JPA](#1-jpa)
@@ -105,6 +106,7 @@
 </details>
 
 ### 19. [Java의 동일성, 동등성](https://skroy0513.tistory.com/72)
+### 20. [Bean](https://skroy0513.tistory.com/80)
 
 ## Spring
 ### 1. [JPA](https://skroy0513.tistory.com/20)
