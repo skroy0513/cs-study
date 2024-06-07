@@ -5,6 +5,7 @@
 3. [프로세스와 스레드](#3-프로세스와-스레드)
 4. [단위테스트와 TDD](#4-단위테스트와-tdd)
 5. [OAuth](#5-oauth)
+6. [정렬 알고리즘](#6-정렬-알고리즘)
 
 -- -- --
 
@@ -47,3 +48,4 @@
 
 ### 4. [단위테스트와 TDD](https://skroy0513.tistory.com/59)
 ### 5. [OAuth](https://skroy0513.tistory.com/86)
+### 6. [정렬 알고리즘](https://skroy0513.tistory.com/95)
